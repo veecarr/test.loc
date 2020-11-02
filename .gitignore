@@ -1,0 +1,2 @@
+$ cat .gitignore
+*/public_html/idea
