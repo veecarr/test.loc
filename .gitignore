@@ -1,2 +1,2 @@
 $ cat .gitignore
-*/public_html/idea
+/public_html/idea/**
