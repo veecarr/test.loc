@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- CSS LINKS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- JavaScript -->
+<!--    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>-->
+<!--    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>-->
+<!--    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>-->
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+    <script src="js/script.js"></script>
+
+    <title>Регистрация</title>
+</head>
+<body>
+<div class="form-singin place">
+    <form method="post" id="form-singin">
+        <div class="form-group">
+            <h3 class="topic">Регистрация</h3><hr>
+        </div>
+        <div class="form-row">
+            <div class="col">
+                <div class="form-group">
+                    <label for="name" class="sr-only"></label>
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Имя" autofocus>
+                </div>
+                <div class="form-group">
+                    <label for="email" class="sr-only"></label>
+                    <input type="email" class="form-control" id="email" name="email" required aria-describedby="emailHelp" placeholder="Почта" autofocus>
+                </div>
+                <div class="form-group">
+                    <label for="login" class="sr-only"></label>
+                    <input type="text" class="form-control" id="login" name="login" required aria-describedby="loginHelp" placeholder="Логин" autofocus>
+                </div>
+                <div class="form-group">
+                    <label for="password" class="sr-only"></label>
+                    <input type="password" class="form-control" name="password" id="password" required placeholder="Введите пароль">
+                </div>
+                <div class="form-group">
+                    <label for="passwordRep" class="sr-only"></label>
+                    <input type="password" class="form-control" name="passwordRep" id="passwordRep" required placeholder="Повторите пароль"><hr>
+                </div>
+            </div>
+            <div class="col-auto" style="max-width: 20px">
+                <div class="form-group">
+                    <button type="button" class="btn btn-secondary help-button" data-toggle="tooltip" data-placement="right" title="Имя должно содержать 3 или более символа">?</button>
+                </div>
+                <div class="form-group">
+                    <button type="button" class="btn btn-secondary help-button" data-toggle="tooltip" data-placement="right" title="Ваша электронная почта">?</button>
+                </div>
+                <div class="form-group">
+                    <button type="button" class="btn btn-secondary help-button" data-toggle="tooltip" data-placement="right" title="Логин должен содержать только буквы латинского алфавита">?</button>
+                </div>
+                <div class="form-group">
+                    <button type="button" class="btn btn-secondary help-button" data-toggle="tooltip" data-placement="right" title="Пароль должен содержать буквы латинского алфавита и цифры">?</button>
+                </div>
+                <div class="form-group">
+                    <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="right" title="Повторите пароль">?</button>
+                </div>
+            </div>
+        </div>
+        <div class="form-group form-check">
+            <input type="checkbox" class="form-check-input" id="check" name="check" value="yes">
+            <label class="form-check-label" for="check">Запомнить меня</label>
+        </div>
+        <div class="row">
+            <div class="form-inline">
+                <label for="author"></label>
+                <input type="submit" class="btn btn-primary" name="author" id="author" value="Зарегистрироваться" style="margin-left: 5px;">
+            </div>
+            <div class="form-inline">
+                <a href="index.html" class="btn btn-secondary" style="margin-left: 5px;">Войти</a>
+            </div>
+            <div class="form-inline">
+                <button class="btn btn-warning" name="clearForm" id="clearForm" style="margin-left: 5px;">Очистить</button>
+            </div>
+        </div>
+    </form>
+</div>
+</body>
+</html>

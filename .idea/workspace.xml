@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55bcd2c3-4a0e-4c64-9054-98b1c51f1f10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="8f8bbfc4-a73a-4043-b358-e592c40a3966" />
+    </execution>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/components/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/components/jquery" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hYAhn1qerdMOlHLk8RYWlkTKe8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/components/jquery" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public_html/5" />
+      <recent name="$PROJECT_DIR$/public_html/5/temp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public_html/5" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55bcd2c3-4a0e-4c64-9054-98b1c51f1f10" name="Default Changelist" comment="" />
+      <created>1600177775703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600177775703</updated>
+      <workItem from="1600177777115" duration="56000" />
+      <workItem from="1600178582268" duration="510000" />
+      <workItem from="1600179505887" duration="185000" />
+      <workItem from="1600180423845" duration="1685000" />
+      <workItem from="1600430345073" duration="452000" />
+      <workItem from="1600431281781" duration="6406000" />
+      <workItem from="1600437775006" duration="3748000" />
+      <workItem from="1600690566219" duration="9522000" />
+      <workItem from="1600700271465" duration="83000" />
+      <workItem from="1600700372920" duration="268000" />
+      <workItem from="1601038315001" duration="8250000" />
+      <workItem from="1604260620224" duration="1260000" />
+      <workItem from="1604261890124" duration="148000" />
+      <workItem from="1604300632892" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="111" width="824" height="684" key="#CLI_Interpreters" timestamp="1604261830231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="437" y="111" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1604261830231" />
+    <state x="416" y="120" width="824" height="684" key="#CLI_Interpreters/67.27.1533.873@67.27.1533.873" timestamp="1600178646779" />
+    <state x="478" y="86" width="700" height="752" key="#PHP" timestamp="1601041961171">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="478" y="86" width="700" height="752" key="#PHP/67.27.1533.873@67.27.1533.873" timestamp="1601041961171" />
+    <state x="428" y="124" width="856" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600432092952">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="856" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1600432092952" />
+    <state x="566" y="245" width="524" height="434" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1601044017060">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="566" y="245" width="524" height="434" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/67.27.1533.873@67.27.1533.873" timestamp="1601044017060" />
+    <state x="737" y="433" width="446" height="261" key="ComposerInitDialogKey" timestamp="1604261837012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="433" width="446" height="261" key="ComposerInitDialogKey/0.0.1920.1040@0.0.1920.1040" timestamp="1604261837012" />
+    <state x="584" y="364" width="424" height="513" key="FileChooserDialogImpl" timestamp="1604261807752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="584" y="364" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604261807752" />
+    <state x="616" y="205" width="424" height="513" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1600699783633" />
+    <state width="1020" height="219" key="GridCell.Tab.0.bottom" timestamp="1601044813059">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1020" height="219" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1601044813059" />
+    <state width="1020" height="219" key="GridCell.Tab.0.center" timestamp="1601044813059">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1020" height="219" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1601044813059" />
+    <state width="1020" height="219" key="GridCell.Tab.0.left" timestamp="1601044813059">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1020" height="219" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1601044813059" />
+    <state width="1020" height="219" key="GridCell.Tab.0.right" timestamp="1601044813059">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1020" height="219" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1601044813059" />
+    <state width="330" height="500" key="HiddenNamespacesPopup" timestamp="1600181496937">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="330" height="500" key="HiddenNamespacesPopup/67.27.1533.873@67.27.1533.873" timestamp="1600181496937" />
+    <state x="580" y="182" width="497" height="561" key="NewPhpClassDialog" timestamp="1600692267448">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="580" y="182" width="497" height="561" key="NewPhpClassDialog/67.27.1533.873@67.27.1533.873" timestamp="1600692267448" />
+    <state x="515" y="288" width="998" height="708" key="SettingsEditor" timestamp="1604300682509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="515" y="288" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604300682509" />
+    <state x="322" y="97" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1601044026324" />
+    <state x="735" y="340" width="187" height="244" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1600181481251">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="735" y="340" width="187" height="244" key="com.intellij.database.actions.DdlActions$CreateObject$1/67.27.1533.873@67.27.1533.873" timestamp="1600181481251" />
+    <state x="674" y="352" width="367" height="248" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1600434226368">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="674" y="352" width="367" height="248" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/67.27.1533.873@67.27.1533.873" timestamp="1600434226368" />
+    <state x="667" y="234" width="560" height="457" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1600434199477">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="667" y="234" width="560" height="457" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/67.27.1533.873@67.27.1533.873" timestamp="1600434199477" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1604300634003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604300634003" />
+    <state x="553" y="273" width="550" height="377" key="jetbrains.nodejs.interpreters-dialog" timestamp="1600699552979">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="553" y="273" width="550" height="377" key="jetbrains.nodejs.interpreters-dialog/67.27.1533.873@67.27.1533.873" timestamp="1600699552979" />
+  </component>
+</project>

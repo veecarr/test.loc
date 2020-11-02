@@ -1,0 +1,26 @@
+div.form_rig{
+    width: 220px;
+    margin-top: 50px;
+    margin-left: 600px;
+    padding: 10px 10px 40px 10px;
+    text-align: center;
+    font-family: Arial, Verdana,  sans-serif;
+}
+
+input.inreg{
+    text-align: inherit;
+    font-size: 12pt;
+    padding-top: 3px;
+    margin-bottom: 3px;
+}
+
+input.button{
+    font-size: 14pt;
+    background-color: azure;
+    color: darkblue;
+}
+
+p.error{
+    font-family: Arial, Verdana,  sans-serif;
+    white-space: pre;
+}
